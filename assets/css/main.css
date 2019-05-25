@@ -187,7 +187,7 @@ input, select, textarea {
 		}
 
 			a:hover:before {
-				color: gray !important;
+				color: yellow !important;
 				font-size: 18px !important;
 			}
 
